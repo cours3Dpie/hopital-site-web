@@ -48,3 +48,14 @@ border-radius: 10px;
 max-width: 100%;
 max-height: 600px;
 }
+.image-container {
+    float: right;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.list-container {
+    clear: both;
+    margin-top: 20px;
+}
